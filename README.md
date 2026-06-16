@@ -25,6 +25,7 @@ morning. By **Cameraderie Cards** · cameraderiecards.com
 
 | Date | Sell forecast (PDF) | Social |
 |------|---------------------|--------|
+| 2026-06-16 | [PDF](forecasts/2026-06-16/sell_forecast_2026-06-16.pdf) | [image](forecasts/2026-06-16/sell_forecast_2026-06-16_social.png) |
 | 2026-06-15 | [PDF](forecasts/2026-06-15/sell_forecast_2026-06-15.pdf) | [image](forecasts/2026-06-15/sell_forecast_2026-06-15_social.png) |
 | 2026-06-14 | [PDF](forecasts/2026-06-14/sell_forecast_2026-06-14.pdf) | [image](forecasts/2026-06-14/sell_forecast_2026-06-14_social.png) |
 | 2026-06-13 | [PDF](forecasts/2026-06-13/sell_forecast_2026-06-13.pdf) | [image](forecasts/2026-06-13/sell_forecast_2026-06-13_social.png) |
